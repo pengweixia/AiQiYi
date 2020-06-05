@@ -1,0 +1,72 @@
+@charset "utf-8";
+body,ul,ol,dl,h1,h2,h3,h4,h5,h6,p,th,td,li,dd,form,input,textarea,figure,figcaption{
+	margin:0;
+	padding:0;
+}
+*{
+	box-sizing:border-box;
+}
+
+body{
+	font-family:'微软雅黑';
+}
+
+body,html{
+	height:100%;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-weight:normal;
+	font-size:16px;
+}
+
+a,u{
+	color:#000;
+	text-decoration:none;
+}
+
+b,strong{
+	font-weight:normal;
+}
+
+ul,ol,li{
+	list-style:none;
+}
+
+img{
+	display:block;
+	border:0;
+}
+
+input{
+	outline:none;
+	border:0;
+}
+
+i,em{
+	font-style:normal;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

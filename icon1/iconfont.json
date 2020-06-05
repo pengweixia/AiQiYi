@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2938856",
+      "name": "精选",
+      "font_class": "tubiao-",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "5166721",
+      "name": "饭团",
+      "font_class": "fantuan",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "6243440",
+      "name": "发现",
+      "font_class": "faxian",
+      "unicode": "e6b7",
+      "unicode_decimal": 59063
+    },
+    {
+      "icon_id": "6649262",
+      "name": "铃铛",
+      "font_class": "trans-null",
+      "unicode": "e508",
+      "unicode_decimal": 58632
+    },
+    {
+      "icon_id": "7504080",
+      "name": "会员 copy 35(1)",
+      "font_class": "huiyuancopy",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "8064007",
+      "name": "我",
+      "font_class": "wo",
+      "unicode": "e530",
+      "unicode_decimal": 58672
+    },
+    {
+      "icon_id": "9001254",
+      "name": "时钟",
+      "font_class": "ssure",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "10568367",
+      "name": "下载",
+      "font_class": "xiazai",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    }
+  ]
+}
